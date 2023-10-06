@@ -7,5 +7,5 @@ def main(list1):
         list: return answer.
     """
     return list1[0:3:1]
-print(main(list1=['a', 'b', 'c', 'd']))
+print(main(list1=['a', 'b', 'c', 'd'])) 
 print(main(list1=['a', 1, 'b', 2, 'c', 3, 'd', 4]))
